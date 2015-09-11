@@ -1,0 +1,6 @@
+_site
+.idea
+node_modules
+_site
+assets
+_deploy
